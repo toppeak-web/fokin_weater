@@ -8,6 +8,6 @@ https://openweathermap.org/api 의 api 서비스로
 화면에 보여줍니다.
 
 # 다운로드
-https://expo.io/artifacts/7f200f26-231a-48d5-ac83-9cafe346eec7
+https://expo.io/artifacts/9a412735-e40e-4dd3-bc96-ac83f2e720bd
 
 <img src="https://user-images.githubusercontent.com/60978437/93668481-72d1a800-fac7-11ea-9b02-b2833d0b504c.png">
